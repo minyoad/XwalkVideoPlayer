@@ -1,0 +1,2 @@
+include ':app', ':xwalkvideoplayer'
+include ':xwalk_core_library'
