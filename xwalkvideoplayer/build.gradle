@@ -22,9 +22,11 @@ android {
 }
 
 dependencies {
-    implementation fileTree(include: ['*.jar'], dir: 'libs')
+//    implementation fileTree(include: ['*.jar'], dir: 'libs')
 //    compile 'com.jakewharton:butterknife:7.0.1'
 //    annotationProcessor 'com.jakewharton:butterknife:7.0.1'
+
+    implementation 'org.xwalk:xwalk_core_library:23.53.589.4'
     implementation 'com.jakewharton.timber:timber:4.1.0'
-    implementation project(':xwalk_core_library')
+//    implementation project(':xwalk_core_library')
 }

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/mingyang.wu/Documents/android-apps/XwalkWebViewDemo/xwalk_core_library/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/mingyang.wu/Documents/android-apps/XwalkWebViewDemo/xwalk_core_library/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\myproject\XwalkVideoPlayer\xwalk_core_library\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\myproject\XwalkVideoPlayer\xwalk_core_library\src\debug\shaders"/></dataSet></merger>

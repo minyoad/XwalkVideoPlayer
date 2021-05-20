@@ -1,6 +1,5 @@
 package com.mybacc.xwalkwebviewdemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.mybacc.xwalkvideoplayer.XwalkWebViewActivity;
@@ -12,8 +11,9 @@ public class MainActivity extends XwalkWebViewActivity {
         super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_main);
 
-        play("http://www.dgua.xyz/webcloud/?url=http://v.youku.com/v_show/id_XMzA4OTA4OTQyMA==.html");
+        play("https://api.147g.cc/m3u8.php?url=https://v.qq.com/x/cover/mzc00200vx37bvf.html");
 
+//        play("https://www.baidu.com");
     }
 
     @Override
